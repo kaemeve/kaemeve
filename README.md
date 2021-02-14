@@ -2,8 +2,9 @@
 
 ## Olá, seja bem vindo!
 
-- Olá, sou conhecido como KAEMEVE
-- Tenho 18 anos sou web developer
+- Olá, sou conhecido como KMV
+- Tenho alguns anos de idade
+- Tenho conhecimento completo em JS
 - Atualmente estou programando um cheat
 - de CS:GO fique avontade para conhecer
 - meus projetos
