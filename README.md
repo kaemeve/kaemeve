@@ -12,7 +12,7 @@
 ## KAEMEVE - :computer: 
 
 Curso JAVASCRIPT 
-- Estou aprendendo ***
+- Completo do BASICO ao AVANÇADO ***
 
 
 
@@ -20,7 +20,7 @@ Curso JAVASCRIPT
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/INTACTOZ)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ThalyssonK)
 
-- Founder infinity
+- Founder infinity.xyz
 
 
 
